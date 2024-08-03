@@ -1,3 +1,9 @@
+/*
+原曲来自 BV1sx411C75U
+编程语言 TypeScript
+代码/合成 Dr-Shrimp
+*/
+
 import { COMMAND, CurrentType, GenderType, RoleType } from "./constants";
 import { inputController } from "./input";
 import { People } from "./people";
