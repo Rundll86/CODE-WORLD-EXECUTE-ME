@@ -1,5 +1,6 @@
 /*
-原曲来自 BV1sx411C75U
+原曲 《world.execute(me);》
+原曲PV BV1sx411C75U
 编程语言 TypeScript
 代码/合成 Dr-Shrimp
 */
